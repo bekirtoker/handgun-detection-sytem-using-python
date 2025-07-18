@@ -1,0 +1,17 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['handgun']
+
+roboflow:
+  workspace: imam-maulana-b4xet
+  project: handgun-detection-jtvaj
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/imam-maulana-b4xet/handgun-detection-jtvaj/dataset/9
+
+
+
+  
